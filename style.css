@@ -1,0 +1,112 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+nav{
+	background-color: black;
+}
+#heading{
+	font-size: 30px;
+	font-style: italic;
+	font-weight: lighter;	
+	padding: 10px;
+	color: #fff44f;
+	padding-right: 50px;
+}
+#navbarNav{
+	letter-spacing: 4px;
+	font-size: 20px;
+}
+#nav{
+	color: white;
+	padding-right: 20px;
+}
+#nav:hover{
+	color: #fff44f;
+}
+#nav .caption{
+	padding: 10px;
+	padding-bottom: 20px;
+	font-size: 50px;
+	font-style: italic;
+	letter-spacing: 3px;
+}
+.front{
+	font-size: 25px;
+	font-style: italic;
+	font-weight: lighter;
+}
+.home{
+	background-color: #fff44f;
+	font-size: 20px;
+}
+p.outset{
+	border-style: outset;
+	padding: 15px;
+	font-size: 20px;
+	font-weight: bolder;
+	font-style: italic;
+	text-align: left;
+	color: #fff44f;
+	background-color: black;
+	text-align: center; 
+}
+.skills{
+	padding-top: 15px;
+	color: black;
+	font-size: 30px;
+	letter-spacing: 2px;
+	font-weight: bold;
+	text-align: center;
+}
+.language{
+	font-size: 15px;
+	text-align: left;
+}
+.p{
+	background-color: #c2c0c0;
+	padding: 20px;
+}
+.title{
+	font-size: 30px;
+	letter-spacing: 2px;
+	font-weight: bold;
+}
+.link{
+	text-decoration: none;
+	color: black;
+	font-size: 17px;
+}
+.link:hover{
+	color: #fff44f;
+}
+.description{
+	font-size: 20px;
+}
+.form-signin{
+	color: white;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+.contact{
+	color: #fff44f;
+	font-size: 30px;
+	letter-spacing: 2px;
+	font-weight: bold;
+	text-align: center;
+}
+.c{
+	font-size: 20px;
+}
+#btn{
+	background-color: #fff44f;
+	color: black;
+}
+.footer{
+	text-align: center;
+	color: #fff44f;
+}
+.f{
+	font-size: 30px;
+	color: #fff44f;
+}
